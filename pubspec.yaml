@@ -1,0 +1,6 @@
+name: metrics_for_dart_code_presets
+version: 1.0.0
+description: Predefined presets for Dart Code Metrics.
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"

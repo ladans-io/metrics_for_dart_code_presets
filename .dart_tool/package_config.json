@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "metrics_for_dart_code_presets",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2023-12-28T18:41:23.597796Z",
+  "generator": "pub",
+  "generatorVersion": "3.1.3"
+}
